@@ -1,28 +1,53 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/Sellbery-Inc/sellbery/)">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Sellbery-Inc/sellbery/">
+    <img src="images/sellbery-icon.svg" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">Sellbery</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Sellbery is a multichannel listing platform that allows e-commerce businesses to synchronize their product listings across various online marketplaces and platforms. It helps streamline the process of managing product information, inventory, and orders on different e-commerce channels.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://sellbery.com/">Site</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://application.sellbery.com/">Application</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://sellbery.com/blog">Blog</a>
   </p>
 </div>
-# Sellbery
-Sellbery is a multichannel listing platform that allows e-commerce businesses to synchronize their product listings across various online marketplaces and platforms. It helps streamline the process of managing product information, inventory, and orders on different e-commerce channels.
 
-Introducing Sellbery - your ultimate solution for seamless multichannel product management! Simplify your life and save time with our easy-to-use tool, allowing you to manage multiple stores, migrate products between marketplaces, and track orders and inventory levels in one place. With Sellbery, you can effortlessly expand your business, skyrocket sales, and, most importantly, free up your time to focus on unleashing your creativity and enjoying the fun side of entrepreneurship!
 
-sellbery.com
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+[![Sellbery products][product-screenshot]](https://application.sellbery.com/)
+
+
+* Multichannel Listing: Sellbery enables users to create and manage product listings on multiple e-commerce platforms
+  from a single dashboard.
+* Product Data Synchronization: The platform helps in syncing product information, including titles, descriptions,
+  prices, and images, across various channels.
+* Inventory Management: Users can track and manage their inventory levels in real-time, preventing overselling or
+  stockouts.
+* Order Management: Sellbery often facilitates the centralized management of orders from different channels, making it
+  easier for businesses to process and fulfill orders efficiently.
+* Automatic Updates: The platform may offer automated updates for product information, inventory levels, and order
+  status across connected channels.
+
+<!-- CONTACT -->
+
+## Contact
+
+Site: [https://sellbery.com/](https://sellbery.com/)
+<br>
+E-mail: <a href="mailto:support@sellbery.com">support@sellbery.com</a>
+<br>
+Application: [https://application.sellbery.com/](https://application.sellbery.com/)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[product-screenshot]: images/sellbery-products.png
